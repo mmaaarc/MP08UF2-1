@@ -1,0 +1,25 @@
+# COMANDA apache2ctl -S
+![alt text](apache8.png)
+
+
+
+
+
+3.3.- Al directori Learn more about owncloud hi ha informació en forma de fitxers pdf. Consulta'ls i respon aquestes preguntes:
+
+Quin són els tres tipus de protecció de dades que ofereix Owncloud?
+Bueno tenim 3 tipos de protecció en encriptació en transit, en repos i d'extrem a extrem.
+
+Fes una petita descripció de cada un d'ells.
+## EN TRANSIT
+Aquest ve per defecte, apart de ser obligatori, garanteix la seguretat de les dades.
+## EN REPOS 
+Aquest xifra tots els fitxers creats del servidor, aquest xifratge és perfecte per poder evitar problemes de secret de dades.
+Per quina raó ens recomana utilitzar Owncloud per als documents de Microsoft Office de la nostra empresa?
+Això passa a tots els països?
+Quina és la llicència d'OWncloud Enterprise?
+I la d'Owncloud Standard?
+Es poden veure videos en Streaming directament des de Owncloud?
+Es poden connectar directoris de Google Drive a Owncloud?
+I Dropbox?
+Compta Owncloud amb antivirus? En cas afirmatiu com es diu?
