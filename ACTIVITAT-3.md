@@ -15,7 +15,7 @@ Aquest ve per defecte, apart de ser obligatori, garanteix la seguretat de les da
 ## EN REPOS 
 Aquest xifra tots els fitxers creats del servidor, aquest xifratge és perfecte per poder evitar problemes de secret de dades.
 ## D'EXTREM A EXTREM
-Aquest es el més segur ja que ni els administradors del sistema poden accedir a la vostra informació alguna de les adventatges es que té una carrega molt gran i si es perd la clau no podrem desxifraru de cap manera.
+Aquest es el més segur ja que ni els administradors del sistema poden accedir a la vostra informació, alguna de les desadventatges es que té una carrega molt gran i si es perd la clau no podrem desxifraru de cap manera.
 
 Per quina raó ens recomana utilitzar Owncloud per als documents de Microsoft Office de la nostra empresa?
 *És fàcil d'utilitzar i eficient.*
