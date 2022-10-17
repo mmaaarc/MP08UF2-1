@@ -54,6 +54,7 @@ Per quina raó ens recomana utilitzar Owncloud per als documents de Microsoft Of
    Mostra els següents canvis de paràmetres d'usuari:
 
    Posa't una imatge d'usuari.
+   
    ![alt text](owncloudfoto.png)
    
    
@@ -61,10 +62,12 @@ Per quina raó ens recomana utilitzar Owncloud per als documents de Microsoft Of
   
    
    Afegeix el teu mail de l'Institut.
-    ![alt text](owncloudmail.png)
+    
+   ![alt text](owncloudmail.png)
   
   
   
   
   Canvia l'idioma a català.
-   Mostra la versió d'Owncloud instal·lada.
+  
+  Mostra la versió d'Owncloud instal·lada.
