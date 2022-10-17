@@ -14,8 +14,7 @@
 
 4.3.- Crea un usuari XYZ on XYZ son les inicials del company/a i afegeix-lo al grup usuaris, aquest usuari tindrà una quota de 512 MB.
 
-
-
+![alt text](usuaricompany.png)
 
 
 
