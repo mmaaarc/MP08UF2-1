@@ -7,6 +7,8 @@
 ![alt text](admin.png)
 
 
+4.2.- Inicia sessió com a l'usuari adminXYZ.
+
 
 
 
