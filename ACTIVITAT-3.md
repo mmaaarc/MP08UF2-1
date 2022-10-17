@@ -69,5 +69,7 @@ Per quina raó ens recomana utilitzar Owncloud per als documents de Microsoft Of
   
   
   Canvia l'idioma a català.
+ 
+   ![alt text](owncloudidioma.png)
   
   Mostra la versió d'Owncloud instal·lada.
