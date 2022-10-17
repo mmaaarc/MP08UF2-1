@@ -28,7 +28,11 @@ Per quina raó ens recomana utilitzar Owncloud per als documents de Microsoft Of
 
 **Quina és la llicència d'OWncloud Enterprise?**
 
+  És la llicencia d'empresa la que et permet fer més coses, per exemple, assegurarse de la marca d'aigua, l'encriptació d'extrem a extrem etc.
+
 **I la d'Owncloud Standard?**
+ 
+ Aquesta llicència no et garantitza encriptació d'extrem a extrem i altres coses que l'Enterprise si que pot. 
 
 **Es poden veure videos en Streaming directament des de Owncloud?**
 
@@ -36,6 +40,12 @@ Per quina raó ens recomana utilitzar Owncloud per als documents de Microsoft Of
   
   Si és podem sincronitzar les nostres carpetes del Drive al Owncloud
 
-**I Dropbox?**
+**I Dropbox?** 
+
+ Tambè es pot fer, pero caldra descargar el fitxers del drive i muntarlos desde el dropbox amb l'opció de upload files/folder.
+
 
 **Compta Owncloud amb antivirus? En cas afirmatiu com es diu?**
+
+  Sí, té una extensió d'antivirus que és diu ClamAV, és una ferramenta d'antivirus de codi obert.
+  
