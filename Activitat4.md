@@ -16,6 +16,7 @@
 
 ![alt text](usuaricompany.png)
 
+Crea 6 fitxers de 100MB i pujal's a Owncloud un per un.
 
 
 
