@@ -9,7 +9,7 @@
 
 4.2.- Inicia sessió com a l'usuari adminXYZ.
 
-
+![alt text](nouusuari.png)
 
 
 
