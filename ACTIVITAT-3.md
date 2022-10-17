@@ -33,7 +33,8 @@ Per quina raó ens recomana utilitzar Owncloud per als documents de Microsoft Of
 **Es poden veure videos en Streaming directament des de Owncloud?**
 
 **Es poden connectar directoris de Google Drive a Owncloud?**
-  Si podem sincronitzar les nostres carpetes del Drive al Owncloud
+  
+  Si és podem sincronitzar les nostres carpetes del Drive al Owncloud
 
 **I Dropbox?**
 
