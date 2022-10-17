@@ -50,7 +50,11 @@ Com poddem veure a la dreta ens surt l'arxiu compartit i qui ens la compartit.
 
 ![alt text](delete.png)
 
+4.11.- Recupera la carpeta Learn more about owncloud.
 
+Caldra anar a l'apartat de fitxers esborrats i podrem posar recuperar i el tornarem a tindre.
+
+![alt text](recupera.png)
 
 
 
