@@ -46,6 +46,9 @@ Com poddem veure a la dreta ens surt l'arxiu compartit i qui ens la compartit.
 
 ![alt text](descargar.png)
 
+4.10.- Esborra la carpeta Learn more about owncloud.
+
+
 
 
 
