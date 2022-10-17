@@ -24,6 +24,8 @@ Crea 6 fitxers de 100MB i pujal's a Owncloud un per un.
 
 ![alt text](avis.png)
 
+4.6.- Busca al teu perfil quin percentatge de quota estas utilitzant.
+
 
 
 
