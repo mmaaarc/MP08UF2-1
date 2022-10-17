@@ -24,10 +24,10 @@ Per quina raó ens recomana utilitzar Owncloud per als documents de Microsoft Of
 *És de codi obert.*
 *S'adapta als diferents casos d'us*
 
-**Això passa a tots els països?**
-**Quina és la llicència d'OWncloud Enterprise?**
-**I la d'Owncloud Standard?**
-**Es poden veure videos en Streaming directament des de Owncloud?**
-**Es poden connectar directoris de Google Drive a Owncloud?**
-**I Dropbox?**
-**Compta Owncloud amb antivirus? En cas afirmatiu com es diu?**
+1.**Això passa a tots els països?**
+2.**Quina és la llicència d'OWncloud Enterprise?**
+3.**I la d'Owncloud Standard?**
+4.**Es poden veure videos en Streaming directament des de Owncloud?**
+5.**Es poden connectar directoris de Google Drive a Owncloud?**
+6.**I Dropbox?**
+7.**Compta Owncloud amb antivirus? En cas afirmatiu com es diu?**
