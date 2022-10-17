@@ -61,6 +61,10 @@ Per quina raó ens recomana utilitzar Owncloud per als documents de Microsoft Of
   
    
    Afegeix el teu mail de l'Institut.
-   
-   Canvia l'idioma a català.
+    ![alt text](owncloudmail.png)
+  
+  
+  
+  
+  Canvia l'idioma a català.
    Mostra la versió d'Owncloud instal·lada.
