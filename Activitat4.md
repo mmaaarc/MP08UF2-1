@@ -18,6 +18,7 @@
 
 Crea 6 fitxers de 100MB i pujal's a Owncloud un per un.
 
+![alt text](archius.png)
 
 
 
