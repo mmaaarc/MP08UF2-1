@@ -42,9 +42,9 @@ Com poddem veure a la dreta ens surt l'arxiu compartit i qui ens la compartit.
 
 ![alt text](compartit.png)
 
+4.9.- Comparteix un fitxer de usuariXYZ a usuari2XYZ i mostra com l'usuari2XYZ pot veure i descarregar el fitxer.
 
-
-
+![alt text](descargar.png)
 
 
 
