@@ -49,3 +49,6 @@ Per quina raó ens recomana utilitzar Owncloud per als documents de Microsoft Of
 
   Sí, té una extensió d'antivirus que és diu ClamAV, és una ferramenta d'antivirus de codi obert.
   
+  
+  3.4-  
+  
