@@ -56,6 +56,8 @@ Caldra anar a l'apartat de fitxers esborrats i podrem posar recuperar i el torna
 
 ![alt text](recupera.png)
 
+4.12.- Com a usuariXYZ crea una carpeta nova anomenada shared i comparteix-la amb l'usuari usuari2XYZ.
+
 
 
 
