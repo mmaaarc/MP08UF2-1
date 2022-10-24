@@ -15,4 +15,4 @@ L'agregarem al grup
 
 ![alt text](webdav.png)
 
-
+Despres crearem dos carpetes una per al 
