@@ -20,3 +20,4 @@ Despres crearem dos carpetes una per al owncloud al directori home i un altra pe
 ![alt text](dirowncloud.png)
 
 ![alt text](dirdav.png)
+
