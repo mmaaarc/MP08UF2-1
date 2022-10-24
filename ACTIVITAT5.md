@@ -12,3 +12,6 @@ sudo apt-get install davfs2
 sudo yum install davfs2
 
 L'agregarem al grup 
+![alt text](webdav.png)
+
+
