@@ -20,3 +20,10 @@ Despres crearem dos carpetes una per al owncloud al directori home i un altra pe
 ![alt text](dirowncloud.png)
 
 ![alt text](dirdav.png)
+
+Seguidament copiarem a la carpeta davfs2 creada avans aquesta informació.
+
+![alt text](aa.png)
+
+Li donarem permisos
+
