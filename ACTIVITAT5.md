@@ -15,4 +15,8 @@ L'agregarem al grup
 
 ![alt text](webdav.png)
 
-Despres crearem dos carpetes una per al 
+Despres crearem dos carpetes una per al owncloud al directori home i un altra per al controlador davfs2
+
+![alt text](dirowncloud.png)
+
+![alt text](dirdav.png)
