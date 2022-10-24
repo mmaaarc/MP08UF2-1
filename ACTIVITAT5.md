@@ -27,3 +27,4 @@ Seguidament copiarem a la carpeta davfs2 creada avans aquesta informació.
 
 Li donarem permisos
 
+![alt text](permisos.png.png)
